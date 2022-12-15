@@ -4,12 +4,12 @@
 
 This repository contains my replication project of **Auffhammer and Kellogg (2011)**, henceforth **AK**. The replication is my term paper for the course **Topics in Econometrics** with Professor Adrian Adermon at Uppsala University.
 
-I replicate AK's results on the causal effects of air quality regulations in the US using difference-in-differences (DiD) and regression discontinuity (RD) methods. Finding AK's methodology unnecessarily complicated, and the support of the identifying assumptions lacking, I re-examine their results with comparisons to estimates from more standard DiD and RD implementations.
+I replicate AK's results on the causal effects of air quality regulations in the US using difference-in-differences (DiD) and regression discontinuity (RD) methods. Finding AK's methodology overcomplicated and the identifying assumptions , I re-examine their results with comparisons to estimates from more standard DiD and RD implementations.
 
 ### Files
-* `Xie_2.pdf` is the term paper for the course, with minor edits from the final submission.
-* `Xie_2.do` is the stata code containing my own replication and analysis of AK.
-* AK's dataset and replication package is available from the AEA webpage of the original paper.
+* `Xie_2.pdf` contains the term paper for the course, with adjustments after the final submission.
+* `Xie_2.do` contains the stata code containing my own replication and analysis of AK.
+* AK's dataset and replication package is available from the AEA webpage of the original paper and from [openicpsr.org](https://www.openicpsr.org/openicpsr/project/112465/version/V1/view)
 
 ### Original paper
 Auffhammer, Maximilian, and Ryan Kellogg. (2011). "Clearing the Air? The Effects of
