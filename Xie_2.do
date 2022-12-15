@@ -20,8 +20,9 @@ set more off
 
 *** Preamble ***
 
-// Base directory containing replication package
 // https://www.openicpsr.org/openicpsr/project/112465/version/V1/view
+
+// Base directory containing AK's replication package (change to your path)
 global base "C:\Users\qcx20\Documents\School\4-Topics_in_Econometrics\Replication"
 
 global support "${base}\support"
