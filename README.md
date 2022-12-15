@@ -9,7 +9,7 @@ I replicate AK's results on the causal effects of air quality regulations in the
 ### Files
 * `Xie_2.pdf` is the term paper for the course, with minor edits from the final submission.
 * `Xie_2.do` is the stata code containing my own replication and analysis of AK.
-* AK's dataset and replication package is available from the AEA webpage for the original paper.
+* AK's dataset and replication package is available from the AEA webpage of the original paper.
 
 ### Original paper
 Auffhammer, Maximilian, and Ryan Kellogg. (2011). "Clearing the Air? The Effects of
