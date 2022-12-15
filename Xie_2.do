@@ -2,10 +2,14 @@
 	Replication paper 2: Auffhammer and Kellogg (2011)
 	Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality.
 	
-	5 June 2022
 	Jack (Quan Cheng) Xie
+	Professor Adrian Adermon
 	Topics in Econometrics
 	Uppsala University--Masters in Economics
+	Due date: 5 June 2022
+	
+	Term paper and project description available at
+	https://github.com/qcx201/UU-TopicsInEconometrics
 	
 *******************************************************************************/
 
