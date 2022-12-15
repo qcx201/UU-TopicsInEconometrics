@@ -4,7 +4,7 @@
 
 This repository contains my replication of **Auffhammer and Kellogg (2011)**, henceforth **AK**. The replication project is for my term paper in the course **Topics in Econometrics** with Professor Adrian Adermon at Uppsala University.
 
-I replicate AK's results on the causal effects of air quality regulations in the U.S. using weather data and extensions on difference-in-differences (DD) and regression discontinuity (RD) methods.
+I replicate AK's results on the causal effects of air quality regulations in the U.S. using weather data and extensions of difference-in-differences (DD) and regression discontinuity (RD) methods.
 
 I argue that the complexity of AK's extensions of DD and RD methodologies threatens the validity of the causal identifying assumptions. Thus, I re-examine their results with comparisons to estimates using more standard DD and RD implementations.
 
