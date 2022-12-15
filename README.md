@@ -2,7 +2,7 @@
 
 ### Replication Paper
 
-This repository contains my replication project of **Auffhammer and Kellogg (2011)**, henceforth **AK**. The replication is my term paper for the course **Topics in Econometrics** with Professor Adrian Adermon at Uppsala University.
+This repository contains my replication of **Auffhammer and Kellogg (2011)**, henceforth **AK**. The replication project is for my term paper in the course **Topics in Econometrics** with Professor Adrian Adermon at Uppsala University.
 
 I replicate AK's results on the causal effects of air quality regulations in the U.S. using weather data and extensions on difference-in-differences (DD) and regression discontinuity (RD) methods.
 
