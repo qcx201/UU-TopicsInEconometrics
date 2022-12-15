@@ -11,7 +11,7 @@ I argue that the complexity of AK's extensions on standard DiD and RD methodolog
 ### Files
 * `Xie_2.pdf` contains the term paper for the course, with adjustments after the final submission.
 * `Xie_2.do` contains the stata code containing my own replication and analysis of AK.
-* AK's dataset and replication package is available from the AEA webpage of the original paper and from [openicpsr.org](https://www.openicpsr.org/openicpsr/project/112465/version/V1/view)
+* AK's dataset and replication package is available from the AEA webpage of the original paper and from [openicpsr.org](https://www.openicpsr.org/openicpsr/project/112465/version/V1/view).
 
 ### Original paper
 Auffhammer, Maximilian, and Ryan Kellogg. (2011). "Clearing the Air? The Effects of
