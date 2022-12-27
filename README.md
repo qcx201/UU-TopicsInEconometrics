@@ -9,7 +9,7 @@ I replicate AK's results on the causal effects of air quality regulations in the
 I argue that the complexity of AK's DD and RD extensions threaten the validity of the causal identifying assumptions. Therefore, as a robustness check I compare their results to estimates using more standard DD and RD implementations.
 
 ### Files
-* `Xie_2.pdf` contains the term paper for the course, with adjustments after the final submission.
+* `Xie_2.pdf` contains the term paper for the course, with small adjustments after the final submission.
 * `Xie_2.do` contains the stata code containing my own replication and analysis of AK.
 * AK's dataset and replication package is available from the AEA webpage of the original paper (link below), and from [openicpsr.org](https://www.openicpsr.org/openicpsr/project/112465/version/V1/view).
 
