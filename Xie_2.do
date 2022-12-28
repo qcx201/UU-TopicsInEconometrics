@@ -8,10 +8,10 @@
 	Uppsala University--Masters in Economics
 	Due date: 5 June 2022
 	
-	# Term paper PDF and project description available at ----
+	# Term paper available at
 	https://github.com/qcx201/UU-TopicsInEconometrics
 	
-	# AK's original paper ----
+	# Original paper
 	http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.6.2687
 	
 	# Description -----------
