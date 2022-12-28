@@ -8,8 +8,22 @@
 	Uppsala University--Masters in Economics
 	Due date: 5 June 2022
 	
-	Term paper and project description available at
+	# Term paper PDF and project description available at ----
 	https://github.com/qcx201/UU-TopicsInEconometrics
+	
+	# AK's original paper ----
+	http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.6.2687
+	
+	# Description -----------
+	This .do file replicates the main results in Auffhammer and Kellogg (2011), henceforth AK.
+	
+	I replicate AK's results on the causal effects of air quality regulations in 
+	the U.S. using weather data and extensions of difference-in-differences (DD) 
+	and regression discontinuity (RD) methods.
+	
+	I argue that the complexity of AK's DD and RD extensions threaten the validity 
+	of the causal identifying assumptions. As a robustness check, I compare 
+	AK's results to estimates from more standard DD and RD implementations.
 	
 *******************************************************************************/
 
